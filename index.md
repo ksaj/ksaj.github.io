@@ -1,3 +1,7 @@
+## Meh...
+
+Ignore what follows. It is default stuff. My daling updates will replace it soon...
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ksaj/ksaj.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
