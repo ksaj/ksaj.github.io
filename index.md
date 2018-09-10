@@ -2,28 +2,29 @@
 
 Ignore this for now, unless you are a trooper with an adventurous spirit. It will all come together soon...
 
-For now, the casual reader is better off fleeing in another direction. The insanity will probably only make sense to me, myself and I. Of curse you are welcome to peek and poke, but it won't be pretty for a while... trust me.
+For now, the casual reader is better off fleeing in another direction. The insanity will probably only make sense to me, myself and I. Of curse you are welcome to peek and poke, but it won't be pretty for a while... trust me. Once the general outline is completed, this index page will cease to be my TODO list and begin to perform a more public function.
 
-Other than the occasional blurb like this one, I am mostly writing this on my home server with the initial content written in Macdown until it is ready for public consumption. When it is ready to roll, everything will magically appear as if I knew what I was going for all along.
-
-For now, I'm assuming everything (on this cheatsheet)[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet] works here. Anyway, the following pile of noodles is basically a prettier Pastebin until I got the flow down.
+For now, I'm assuming everything (on this cheatsheet)[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet] works here. Anyway, the following pile of noodles is basically a prettier Pastebin until I got the flow down. All of the (currently invisible) content is written in Macdown, so hopefully it is mostly already compatible.
 
 ---
 
-#
+# TODO
 
+Each section in this TODO will become proper links as I start to populate them. Until they get [x], consider them raw and incomplete. Then this index will be updated to ct like a proper content repository.
 
+[ ] Upload www.PENETRATIONTEST.com site to github
+[ ] Create content repo to share between PT and the Security section here, and link them
+[ ] Historical Infosec and hacking content
+[ ] Lisp language stuff
+[ ] Merlin's Whim (Magic and Mentalism)
+[ ] Music
+[ ] Misc (psychology, weird math, word games etc)
 
 ---
 
 # Abandon hope all ye who enter here
 
-Ingore the scratch below. They're only here to remind me of the config stuff.
-
-## Welcome to GitHub Pages
-
-
-
+Ingore the scratch below. It's only here to remind me of the config stuff that may or may not be changed in the future.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
