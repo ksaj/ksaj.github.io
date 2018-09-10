@@ -16,9 +16,11 @@ Each section in this TODO will become proper links as I start to populate them. 
 - [ ] Create content repo to share between PT and the Security section here, and link them
 - [ ] Historical Infosec and hacking content
 - [ ] Lisp language stuff
+- [ ] Raspberry Pi projects (configs, mpich, electronics, NiTi muscle wire etc.)
 - [ ] Merlin's Whim (Magic and Mentalism)
 - [ ] Music
-- [ ] Misc (psychology, weird math, word games etc)
+- [ ] Glögg
+- [ ] Misc Thoughts (psychology, weird math, life, word games etc.)
 
 ---
 
