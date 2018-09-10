@@ -12,13 +12,13 @@ For now, I'm assuming everything (on this cheatsheet)[https://github.com/adam-p/
 
 Each section in this TODO will become proper links as I start to populate them. Until they get [x], consider them raw and incomplete. Then this index will be updated to ct like a proper content repository.
 
-[ ] Upload www.PENETRATIONTEST.com site to github
-[ ] Create content repo to share between PT and the Security section here, and link them
-[ ] Historical Infosec and hacking content
-[ ] Lisp language stuff
-[ ] Merlin's Whim (Magic and Mentalism)
-[ ] Music
-[ ] Misc (psychology, weird math, word games etc)
+- [ ] Upload www.PENETRATIONTEST.com site to github
+- [ ] Create content repo to share between PT and the Security section here, and link them
+- [ ] Historical Infosec and hacking content
+- [ ] Lisp language stuff
+- [ ] Merlin's Whim (Magic and Mentalism)
+- [ ] Music
+- [ ] Misc (psychology, weird math, word games etc)
 
 ---
 
