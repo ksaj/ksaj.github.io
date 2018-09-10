@@ -1,34 +1,29 @@
 ## Meh...
 
-Ignore what follows. It is default stuff. My upcoming updates will replace it soon...
+Ignore this for now, unless you are a trooper with an adventurous spirit. It will all come together soon...
+
+For now, the casual reader is better off fleeing in another direction. The insanity will probably only make sense to me, myself and I. Of curse you are welcome to peek and poke, but it won't be pretty for a while... trust me.
+
+Other than the occasional blurb like this one, I am mostly writing this on my home server with the initial content written in Macdown until it is ready for public consumption. When it is ready to roll, everything will magically appear as if I knew what I was going for all along.
+
+For now, I'm assuming everything (on this cheatsheet)[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet] works here. Anyway, the following pile of noodles is basically a prettier Pastebin until I got the flow down.
+
+---
+
+#
+
+
+
+---
+
+# Abandon hope all ye who enter here
+
+Ingore the scratch below. They're only here to remind me of the config stuff.
 
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ksaj/ksaj.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
