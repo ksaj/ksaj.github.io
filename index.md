@@ -6,6 +6,8 @@ For now, the casual reader is better off fleeing in another direction. The insan
 
 For now, I'm assuming everything (on this cheatsheet)[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet] works here. Anyway, the following pile of noodles is basically a prettier Pastebin until I got the flow down. All of the (currently invisible) content is written in Macdown, so hopefully it is mostly already compatible.
 
+If you've read this far (why??) here's a jike about LISP: https://byrslf.co/lisp-f1258a476fc6
+
 ---
 
 # TODO
