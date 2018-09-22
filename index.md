@@ -4,14 +4,14 @@ Ignore this for now, unless you are a trooper with an adventurous spirit. It wil
 
 For now, the casual reader is better off fleeing in another direction. The insanity will probably only make sense to me, myself and I. Of curse you are welcome to peek and poke, but it won't be pretty for a while... trust me. Once the general outline is completed, this index page will cease to be my TODO list and begin to perform a more public function.
 
-For now, I'm assuming everything (on this cheatsheet)[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet] works here. Anyway, the following pile of noodles is basically a prettier Pastebin until I got the flow down. All of the (currently invisible) content is written in Macdown, so hopefully it is mostly already compatible.
+For now, I'm assuming everything [on this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) works here. Anyway, the following pile of noodles is basically a prettier Pastebin until I got the flow down. All of the (currently invisible) content is written in Macdown, so hopefully it is mostly already compatible.
 
 If you've read this far (why??) here's a jike about LISP: https://byrslf.co/lisp-f1258a476fc6
 
 ---
 # A rant about tired old lie everyone likes to keep on spouting
 
-The wannabe debunker's claim is that we are brought to believe we only use 10% of our brains. Wikipedia spells out a (number of studies)[https://en.wikipedia.org/wiki/Ten_percent_of_the_brain_myth] that prove that we use our entire brains, and that every part of the brain has its function.
+The wannabe debunker's claim is that we are brought to believe we only use 10% of our brains. Wikipedia spells out a [number of studies](https://en.wikipedia.org/wiki/Ten_percent_of_the_brain_myth) that prove that we use our entire brains, and that every part of the brain has its function.
 
 Case closed? Absolutely not. 
 
