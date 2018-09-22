@@ -9,13 +9,13 @@ For now, I'm assuming everything (on this cheatsheet)[https://github.com/adam-p/
 If you've read this far (why??) here's a jike about LISP: https://byrslf.co/lisp-f1258a476fc6
 
 ---
-# A rant about tired old lie about the brain everyone seems to keep spouting
+# A rant about tired old lie everyone likes to keep on spouting
 
-The debunker's claim is that we are brought to believe we only use 10% of our brains. Wikipedia spells out a (number of studies)[https://en.wikipedia.org/wiki/Ten_percent_of_the_brain_myth] that prove that we use our entire brains, and that every part of the brain has its function.
+The wannabe debunker's claim is that we are brought to believe we only use 10% of our brains. Wikipedia spells out a (number of studies)[https://en.wikipedia.org/wiki/Ten_percent_of_the_brain_myth] that prove that we use our entire brains, and that every part of the brain has its function.
 
 Case closed? Absolutely not. 
 
-*The wannabe scientists quoted aren't arguing the same thing!*
+*The so-called scientists quoted aren't arguing the same thing!*
 
 Here's what they are really arguing, as quoted from the Wikipedia article:
 
