@@ -18,7 +18,7 @@ Stuff is being uploaded slowly but surely, and the page should be live soon. So 
 > 
 > “Thank you,” the student says. “So how will I use it in my work?”
 > 
-> “Oh, nobody <u>*uses*</u> it.”
+> “Oh, nobody *<u>uses</u>* it.”
 
 ## A rant about tired old lie everyone likes to keep on spouting
 
