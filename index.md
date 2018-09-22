@@ -4,7 +4,21 @@ Stuff is being uploaded slowly but surely, and the page should be live soon. So 
 
 ## Learning LISP
 
-[Here's a joke](https://byrslf.co/lisp-f1258a476fc6) I like about LISP to tie you over. 
+[Here's a joke](https://byrslf.co/lisp-f1258a476fc6) I like about LISP to tie you over:
+
+> A student is about to graduate with a degree in Computer Science, when her faculty advisor notices a hole in her academic profile.
+> 
+> “You haven’t studied LISP,” the professor says. “This is bad. You can’t graduate if you don’t know LISP.”
+> 
+> So the student spends the final weeks of senior year teaching herself LISP. She avoids all her friends, skips all the senior year parties, and spends eighteen hours a day in the computer lab, studying the history of LISP, reading LISP programming books, and writing LISP compilers.
+> 
+> The day before graduation, she presents her work to the professor.
+> 
+> “I’ve got to hand it to you,” the professor says. “I’m very impressed. You’ve buckled down, worked hard, and totally pulled it off. You really know your LISP.”
+> 
+> “Thank you,” the student says. “So how will I use it in my work?”
+> 
+> “Oh, nobody *uses* it.”
 
 ## A rant about tired old lie everyone likes to keep on spouting
 
