@@ -1,8 +1,8 @@
 ## Meh...
 
-Ignore this page for now. It is a WIP at least until I can figure out why the markdown links work on github.com but only sporadically on github.io. You should she them in the rant section. Compare with the working ones at the end. If you know why, please edumicate me.
+Ignore this page for now. It is a WIP at least until I upload the content, which is still in editing mode.
 
-Anyway, here's a joke I like about LISP: https://byrslf.co/lisp-f1258a476fc6
+Anyway, here's a joke I like about LISP to tie you over: https://byrslf.co/lisp-f1258a476fc6
 
 ---
 ## A rant about tired old lie everyone likes to keep on spouting
