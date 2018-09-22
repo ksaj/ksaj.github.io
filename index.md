@@ -1,8 +1,11 @@
-# Learning LISP
+# Under Construction
+
+Stuff is being uploaded slowly but surely, and the page should be live soon. So I've left a couple itty bits for those who venture by.
+
+## Learning LISP
 
 [Here's a joke](https://byrslf.co/lisp-f1258a476fc6) I like about LISP to tie you over. 
 
----
 ## A rant about tired old lie everyone likes to keep on spouting
 
 The wannabe debunker's claim is that we are brought to believe we only use 10% of our brains. Wikipedia spells out a [number of studies](https://en.wikipedia.org/wiki/Ten_percent_of_the_brain_myth) that prove that we use our entire brains, and that every part of the brain has its function.
