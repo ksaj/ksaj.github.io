@@ -9,6 +9,37 @@ For now, I'm assuming everything (on this cheatsheet)[https://github.com/adam-p/
 If you've read this far (why??) here's a jike about LISP: https://byrslf.co/lisp-f1258a476fc6
 
 ---
+# A rant about tired old lie about the brain everyone seems to keep spouting
+
+The debunker's claim is that we are brought to believe we only use 10% of our brains. Wikipedia spells out a (number of studies)[https://en.wikipedia.org/wiki/Ten_percent_of_the_brain_myth] that prove that we use our entire brains, and that every part of the brain has its function.
+
+Case closed? Absolutely not. 
+
+*The wannabe scientists quoted aren't arguing the same thing!*
+
+Here's what they are really arguing, as quoted from the Wikipedia article:
+
+> the average man develops only ten percent of his latent mental ability.
+
+and
+
+> Scientists and psychologists tell us we use only about TEN PERCENT of our brain power.
+
+and
+
+> we might be using only five to ten percent of our mental capacity
+
+Somehow these supposedly skeptical experts can't parse the words 'ability', 'power' and 'capacity'.
+
+Let me reword this in a way that even these morons can understand.
+
+> The average car driver only uses ten percent of their car's latent power, ability and capacity
+
+Nowhere does that suggest all drivers *omit* the use of their cars' engines. They just don't use all of its power, ability and capacity. THEY ARE STILL USING THE ENTIRE ENGINE.
+
+The people arguing this are supposedly scientists. Susrely they could grasp such a simple concept?
+
+---
 
 # TODO
 
