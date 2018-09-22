@@ -32,11 +32,11 @@ Let me reword this in a way that even these morons can understand.
 
 > The average driver only uses ten percent of their car's latent power, ability and capacity
 
-Nowhere does that suggest all drivers *omit* the use of their cars' engines. They just don't use <u>all</u> of its power, ability and capacity. They're not trying to go from 0 to 60 in 3.4 seconds, or cruising at 380 km/h, or turning 180 degrees on a dime without skidding or flipping. THEY ARE STILL USING THE ENTIRE ENGINE.
+Nowhere does that suggest all drivers *omit* the use of their cars' engines. They just don't use <u>all</u> of its power, ability and capacity. They're not trying to go from 0 to 60 in 3.4 seconds, or cruising at 380 km/h, or turning 180 degrees on a dime without skidding or flipping. 
 
-They are using 100% of the engine and other features that slower cars are using. The brain claim is about power, ability and capacity. ONLY. It's very simple.
+They are using 100% of the engine (among other features) that slower drivers are using. The brain claim is about power, ability and capacity. ONLY.
 
-The people arguing this are supposedly scientists. But they've (probably intentionally) glossed over the obvious reality. Next time you feel the urge to perpetuate this nonsense, seriously consider using more of your brain's power, ability and capacity. 
+The people arguing this are supposedly scientists. But in perpetuating this inane stupidity, they're probably *actually* only using 10% of their brains.
 
 ---
 
