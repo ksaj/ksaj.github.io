@@ -1,8 +1,6 @@
-## Meh...
+# Learning LISP
 
-Ignore this page for now. It is a WIP at least until I upload the content, which is still in editing mode.
-
-Anyway, [here's a joke](https://byrslf.co/lisp-f1258a476fc6) I like about LISP to tie you over. 
+[Here's a joke](https://byrslf.co/lisp-f1258a476fc6) I like about LISP to tie you over. 
 
 ---
 ## A rant about tired old lie everyone likes to keep on spouting
