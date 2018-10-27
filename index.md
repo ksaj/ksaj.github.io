@@ -20,37 +20,6 @@ Stuff is being uploaded slowly but surely, and the page should be live soon. So 
 > 
 > “Oh, nobody *<u>uses</u>* it.”
 
-## A rant about tired old lie everyone likes to keep on spouting
-
-The wannabe debunker's claim is that we are brought to believe we only use 10% of our brains. Wikipedia spells out a [number of studies](https://en.wikipedia.org/wiki/Ten_percent_of_the_brain_myth) that prove that we use our entire brains, and that every part of the brain has its function.
-
-Case closed? Absolutely not. 
-
-*The so-called scientists quoted aren't arguing the same thing!*
-
-Here's what they are really arguing, as quoted from the Wikipedia article:
-
-> the average man develops only ten percent of his latent mental ability.
-
-and
-
-> Scientists and psychologists tell us we use only about TEN PERCENT of our brain power.
-
-and
-
-> we might be using only five to ten percent of our mental capacity
-
-Somehow these supposedly skeptical experts can't parse the words 'ability', 'power' and 'capacity'.
-
-Let me reword this in a way that even these morons can understand.
-
-> The average driver only uses ten percent of their car's latent power, ability and capacity
-
-Nowhere does that suggest the average driver driver completely *omits* the use of their cars' engines and other features. They just don't use <u>all</u> of its power, ability and capacity. They're not trying to go from 0 to 60 in 3.4 seconds, or cruising at 380 km/h, or turning 180 degrees on a dime without skidding or flipping. 
-
-They are using 100% of the engine (among other features) that slower drivers are using. The brain claim is about power, ability and capacity. ONLY.
-
-The people arguing this are supposedly scientists. But in perpetuating this inane stupidity, they're probably *actually* only using 10% of their brains.
 
 ---
 
