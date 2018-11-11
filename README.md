@@ -1,7 +1,8 @@
 # ksaj.github.io
 
-I'm just learning my way around github at the moment. To do so, I will be occassionally uploading my hacks from the past few decades along with the new things I've been working on. This readme will be updated to something more meaningful in the process.
+Yea, you noticed the content is incomplete and not linked to the main page. I'll get there as each one is completed. I'm a busy busy guy, and easily distracted by shiny things.
 
-Once I figure out how to link the github and gists content, the floodgate will open.
+#### Keywords: Infosec, Raspberry Pi, Linux, AI, Artificial Life, Synthetic Psychology, Magic, Mentalism, Lisp, Random Thoughts, ADD and ASD
 
-Key words: infosec, raspberry pi, linux, AI, Artificial Life, Synthetic Psychology, magic
+
+
