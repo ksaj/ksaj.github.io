@@ -2,3 +2,5 @@
 
 "The things that are wrong about us – the things that are embarrassing and make us feel like a liability – are OK, and our fallibilities are part of being human.” -- Derren Brown
 
+"For those who fight for it, life has a flavor the protected will never know" - Anonymous
+
