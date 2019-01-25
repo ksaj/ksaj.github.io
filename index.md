@@ -7,9 +7,8 @@ Welcome to my tech articles page. Most of the content will be about Information 
 ### Lisp
 [Incrementing and Decrementing Numbers In Lisp](https://github.com/ksaj/clisp/blob/master/inc-dec.md)
 
-### Information Security
+### Information Security - Offensive Operations Model
 [Setting the Stage](https://github.com/ksaj/articles/blob/master/1a-Offensive_Operations_Model-Setting_The_Stage.md)
-
 [The Economic Impact of Cyber Warfare](https://github.com/ksaj/articles/blob/master/1b-Offensive_Operations_Model-The_Economic_Impact_of_Cyber_Warfare.md)
 
 
