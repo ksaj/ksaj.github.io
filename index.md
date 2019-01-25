@@ -1,10 +1,21 @@
-# Under Construction
+# Karsten's Words
 
-Stuff is being uploaded slowly but surely, and the page should be live soon. So I've left a couple itty bits for those who venture by.
+Welcome to my tech articles page. Most of the content will be about Information Security, Lisp Programming and a smattering of other miscellaneous stuff that I like to write about.
 
-## Learning LISP
+## Articles
 
-[Here's a joke](https://byrslf.co/lisp-f1258a476fc6) I like about LISP to tie you over:
+### Lisp
+[Incrementing and Decrementing Numbers In Lisp](https://github.com/ksaj/clisp/blob/master/inc-dec.md)
+
+### Information Security
+[Setting the Stage](https://github.com/ksaj/articles/blob/master/1a-Offensive_Operations_Model-Setting_The_Stage.md)
+
+[The Economic Impact of Cyber Warfare](https://github.com/ksaj/articles/blob/master/1b-Offensive_Operations_Model-The_Economic_Impact_of_Cyber_Warfare.md)
+
+
+## A Joke About Learning Lisp
+
+[Here's a joke](https://byrslf.co/lisp-f1258a476fc6) I like about LISP programming:
 
 > A student is about to graduate with a degree in Computer Science, when her faculty advisor notices a hole in her academic profile.
 > 
