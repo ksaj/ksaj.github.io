@@ -18,7 +18,7 @@ They probably will find it harder to convince the other to show off their dots (
 
 This would provide a better understanding into what they're actually responding to.
 
-(Probable Conclusion)
+(Likely Conclusion)
 
 Non-human animals do not recognize themselves in mirrors. They recognize species similarity, and request mimickry to the reflected non-human animal to display the notable difference so that it can be inspected. Other elephants, for example, would do a similar "Do This!" action to others in the hopes of finding out if they also have that same red dot.
 
@@ -28,8 +28,8 @@ Compare to CV. The classification is there, but the self-aware is only at its we
 
 They've proven some speciese can recognize surprise differences, and attempt to communicate their desire to inspect that surprising difference.
 
-That is to say, if the change was not a red dot, but something substantial that still remains true to the expected form of the species, I expect this "self awareness" would disappear.
+That is to say, if the change was not a red dot, but something substantial that still remains true to the expected form of the species, I expect this symptom of "self awareness" would disappear. The animal isn't self-aware at any level different than other animals as Humans are. It can and will happen (given the chance) but scientists who have proclaimed othersise are victims of the Uncanny Valley.
 
-
+(Prove me wrong)
 
 
