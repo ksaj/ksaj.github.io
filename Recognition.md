@@ -1,4 +1,4 @@
-# The Apparent Display of Specific Cognition and Recognition in Non-Human Life Forms
+# The Apparent Display of Specific Cognition and Recognition in Non-Human Higher Life Forms
 
 
 
