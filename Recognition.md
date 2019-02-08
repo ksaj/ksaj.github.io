@@ -24,4 +24,12 @@ Non-human animals do not recognize themselves in mirrors. They recognize species
 
 It isn't self-aware. It is difference-aware, which is already a given in how species recognize members of the same species.
 
+Compare to CV. The classification is there, but the self-aware is only at its weakest point of evolutionary progression that relates to our current human level of magnetude.
+
+They've proven some speciese can recognize surprise differences, and attempt to communicate their desire to inspect that surprising difference.
+
+That is to say, if the change was not a red dot, but something substantial that still remains true to the expected form of the species, I expect this "self awareness" would disappear.
+
+
+
 
