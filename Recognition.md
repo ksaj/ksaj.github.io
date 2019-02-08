@@ -18,3 +18,10 @@ They probably will find it harder to convince the other to show off their dots (
 
 This would provide a better understanding into what they're actually responding to.
 
+(Probable Conclusion)
+
+Non-human animals do not recognize themselves in mirrors. They recognize species similarity, and request mimickry to the reflected non-human animal to display the notable difference so that it can be inspected. Other elephants, for example, would do a similar "Do This!" action to others in the hopes of finding out if they also have that same red dot.
+
+It isn't self-aware. It is difference-aware, which is already a given in how species recognize members of the same species.
+
+
