@@ -2,6 +2,8 @@
 
 "Seeing, contrary to popular wisdom, isn't believing. It's where believing stops, because it isn't needed anymore." - Terry Pratchett
 
+"Great civilisations are not murdered. Instead, they take their own lives." -- Arnold Toynbee
+
 "The things that are wrong about us – the things that are embarrassing and make us feel like a liability – are OK, and our fallibilities are part of being human.” -- Derren Brown
 
 "For those who fight for it, life has a flavor the protected will never know" - Anonymous
